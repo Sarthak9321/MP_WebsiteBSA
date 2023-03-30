@@ -1,0 +1,35 @@
+*{
+    background-color :lightskyblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.p1{
+visibility:collapse;
+}
+.imgp1:hover +.p1{
+visibility:visible;
+}
+.p2{
+    visibility:collapse;
+    }
+    .imgp2:hover +.p2{
+    visibility:visible;
+ }
+    .p3{
+        visibility:collapse;
+        }
+        .imgp3:hover +.p3{
+        visibility:visible;
+        }    
+        .p4{
+            visibility:collapse;
+            }
+            .imgp4:hover +.p4{
+            visibility:visible;
+            }
+            .p5{
+                visibility:collapse;
+                }
+                .imgp5:hover +.p5{
+                visibility:visible;
+                }
